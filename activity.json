@@ -1,26 +1,26 @@
 {"quizlist":[
 
 	{"question":"Junge Menschen sind oft rebellisch, aber wenn sie älter werden legt sich das zum Glück wieder."},
-	{"question":"modern society has gone to far."},
-	{"question":"If people would talk less and work more, everybody would be better off."},
-	{"question":"An insult to our honor should always be punished."},
-	{"question":"Refugees destroy our community"},
-	{"question":"The true way of life in our country is disappearing so fast that force may be necessary to preserve it."},
-	{"question":"Most people don't realize how much our lives are controlled by plots hatched in secret places."},
-	{"question":"Gays Will destroy our culture."},
-	{"question":"Human nature being what it is, there will always be war and conflict."},
-	{"question":"A person who has bad manners, habits, and breeding can hardly expect to get along with decent people."},
-	{"question":" What this country needs is a few courageous, tireless, devoted leaders in whom the people can put their faith."},
-	{"question":"Pedophiles and serial rapists should be killed."},
-	{"question":"Nobody ever learned anything really important except through suffering."},
-	{"question":"Political correctness is destroying our free speech."}
+	{"question":"Die moderne Gesellschaft ist zu unsittlich geworden."},
+	{"question":"Der Geschäftsmann und der Fabrikant sind viel wichtiger für die Gesellschaft als der Künstler und der Professor."},
+	{"question":"Gehorsam und Respekt gegenüber der Autorität sind die wichtigsten Tugenden, die Kinder lernen sollen."},
+	{"question":"Flüchtlinge sind eine Gefahr für unsere Gesellschaft"},
+	{"question":"Unsere Kultur zerfällt so schnell, dass sie möglicherweise mit Gewalt geschützt werden muss."},
+	{"question":"Die meisten Menschen erkennen nicht, in welchem Ausmaß unser Leben durch Verschwörungen bestimmt wird, die im Geheimen ausgeheckt werden."},
+	{"question":"Die perverse Sexualität unserer Zeit wird unsere Kultur zerstören"},
+	{"question":"Es wird immer Kriege und Konflikte geben, die Menschen sind nun einmal so."},
+	{"question":"Wer sich nicht benehmen kann, kann keinen Respekt von normalen Menschen erwarten."},
+	{"question":" Was dieses Land vor allem braucht, mehr als Gesetze und politische Programme, sind ein paar mutige, unermüdliche, selbstlose Führer, denen das Volk vertrauen kann."},
+	{"question":"Sittlichkeitsverbrechen, wie Vergewaltigung und Notzucht an Kindern verdienen mehr als bloße Gefängnisstrafe; solche Verbrecher sollten öffentlich ausgepeitscht und noch härter bestraft werden."},
+	{"question":"Man lernt nur durch Schmerzen"},
+	{"question":"Politische Korrektheit führt zur geistigen Knechtschaft"}
 
 ],"answers":[
 
-	{"option":"Disagree Strongly"},
-	{"option":"Disagree Mostly"},
-	{"option":"Agree Mostly"},
-	{"option":"Agree Strongly"}
+	{"option":" trifft nicht zu"},
+	{"option":"trifft eher nicht zu"},
+	{"option":"trifft eher  zu"},
+	{"option":"trifft zu "}
 
 
 ]
