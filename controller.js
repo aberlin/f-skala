@@ -48,15 +48,15 @@ for(i=0;i<numberOfOptions;i++){
 		score+=parseInt(this.id)
   //liberal answer
   if(parseInt(this.id)<2){
-   $(stage).append('<div class="feedback1">NICE!</div>');
+   $(stage).append('<div class="feedback1">jo</div>');
 
 
    }
   //authoritative  answer
   if(parseInt(this.id)>2){
-   $(stage).append('<div class="feedback2">REALLY?!</div>');
+   $(stage).append('<div class="feedback2">Ist dem so?!</div>');
   }
-  setTimeout(function(){changeQuestion()},1000);
+  setTimeout(function(){changeQuestion()},1700);
  }})
 }//display question
 
@@ -83,7 +83,7 @@ for(i=0;i<numberOfOptions;i++){
 
 	function displayFinalSlide(){
 
-		$(stage).append('<div class="questionText">You have finished the quiz!<br><br>Total questions: '+numberOfQuestions+'<br>your scale is around '+String(Math.round(score/(numberOfQuestions*(numberOfOptions-1))*10))+' of  10'+'</div>');
+		$(stage).append('<div class="questionText">Fertig<br><br>Abgeschlossene Fragen: '+numberOfQuestions+'<br> Dein F-Wert ist: '+String(Math.round(score/(numberOfQuestions*(numberOfOptions-1))*10))+' von  10'+'</div>');
 
 	}//display final slide
 

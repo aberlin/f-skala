@@ -6,7 +6,7 @@ html, body {
 	    }
 
 #navContent{
-margin:auto;	
+margin:auto;
 width:800px;
 height:400px;
 position:relative;
@@ -22,18 +22,18 @@ position:absolute;
 }
 
 #game2{
-margin:auto;	
+margin:auto;
 width:800px;
 height:400px;
 right:-800px;
 position:absolute;
-} 
+}
 
 
 
- 
+
 .questionText{
-font-size:27px;
+font-size:23px;
 color:#FFF;
 }
 
@@ -41,7 +41,7 @@ color:#FFF;
 height:30px;
 margin:15px;
 font-size:18px;
-color:#FFFFFF; 
+color:#FFFFFF;
 padding:2px;
 padding-left:10px;
 border: 2px solid white;
@@ -55,7 +55,6 @@ color:#FC0;
 }
 
 
-		
 
 
 
@@ -63,7 +62,8 @@ color:#FC0;
 
 
 
- 
+
+
 
 #topbar{
 height:50px;
@@ -75,12 +75,12 @@ font-family:Arial, Helvetica, sans-serif;
 width:800px;
 border-bottom:solid white 1px;
 }
- 
+
 .spacer{
 height:30px;
 }
 
- 
+
 
 
 
@@ -88,7 +88,7 @@ height:30px;
 .feedback1{
 width:150px;
 padding:5px;
-font-size:30px;
+font-size:20px;
 color:#FFFFCC;
 background-color:#009900;
 font-family:Arial, Helvetica, sans-serif;
@@ -98,14 +98,14 @@ text-align:center;
 .feedback2{
 width:150px;
 padding:5px;
-font-size:30px;
+font-size:20px;
 color:#FFFFCC;
 background-color:#CC3300;
 font-family:Arial, Helvetica, sans-serif;
 text-align:center;
 }
- 
- 
+
+
 @media screen and (max-width:800px) {
 	#topbar{margin-left:1%;margin-right:1%;	width:96%;}
 	#navContent{margin:1%;	width:98%;}
